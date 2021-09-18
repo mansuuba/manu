@@ -13,6 +13,7 @@ function App() {
         <p>
           mansuuba to reload.
           <Button variant="contained">Hello World</Button>
+          here we are slow
         </p>
       </header>
     </div>
